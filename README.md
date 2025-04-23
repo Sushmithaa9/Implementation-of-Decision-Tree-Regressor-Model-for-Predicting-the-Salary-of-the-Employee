@@ -52,7 +52,7 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/ea4071e6-759c-44b3-bfce-541a009df0cc)
+![WhatsApp Image 2025-04-23 at 08 43 11_49f1d6b3](https://github.com/user-attachments/assets/bc3cf77c-2310-48c6-bcae-d58f26f3471b)
 
 
 ## Result:
